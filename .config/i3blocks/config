@@ -1,5 +1,5 @@
 command=~/.local/bin/statusbar/$BLOCK_NAME
-separator_block_width=15
+separator_block_width=0
 markup=pango
 
 [record]
