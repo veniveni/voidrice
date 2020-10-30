@@ -30,6 +30,7 @@ interval=20
 signal=7
 
 [weather]
+command=weather Tel-Aviv
 interval=18000
 signal=5
 

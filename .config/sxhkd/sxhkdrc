@@ -129,7 +129,7 @@ super + F7
 	td-toggle
 # sync email
 super + F8
-	mailsync
+	setxkbmap -layout us,il -option caps:super -variant altgr-intl, grp:alt_shift_toggle && killall xcape 2>/dev/null ; xcape -e 'Super_L=Escape' &
 # Mount a USB drive or Android device
 super + F9
 	dmenumount
